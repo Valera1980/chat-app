@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804090607284",
+    "firebase_url": "https://chatmessages-5d476.firebaseio.com",
+    "project_id": "chatmessages-5d476",
+    "storage_bucket": "chatmessages-5d476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804090607284:android:eb6c3a309050093234c9e1",
+        "android_client_info": {
+          "package_name": "com.gavrilow777.education.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804090607284-227lbr6otfgorrcm47oe2qmqjcd7gn69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBHRp1903cCUcpGaQQMXkqIw5_tF_QXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804090607284-227lbr6otfgorrcm47oe2qmqjcd7gn69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
